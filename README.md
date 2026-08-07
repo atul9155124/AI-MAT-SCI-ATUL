@@ -21,6 +21,7 @@
 
 # 📂 Repository Structure
 
+```
 📦 AI-Material-Science
  ├── 📓 Module 1 S01.ipynb
  ├── 📓 Module 1 S02.ipynb
@@ -28,7 +29,11 @@
  ├── 📓 Module 1 S04.ipynb
  ├── 📓 Module 1 S05.ipynb
  ├── 📓 Module 1 S06.ipynb
+ ├── 📓 Module 1 S07.ipynb
+ ├── 📓 Module 1 S08.ipynb
  └── 📄 README.md
+```
+
 ---
 
 # 📘 Notebook Overview
@@ -136,6 +141,40 @@
 
 ---
 
+## 📓 Module 1 S07.ipynb
+
+### 🔥 Materials Project API Setup
+
+✨ Topics Covered
+
+- Materials Project API
+- API Key Configuration
+- MPRester Initialization
+- Environment Variables (.env)
+
+🎯 Learning Outcome
+
+✔ Learn how to configure and connect to the Materials Project API using Python.
+
+---
+
+## 📓 Module 1 S08.ipynb
+
+### 🔥 Materials Data Retrieval and Visualization
+
+✨ Topics Covered
+
+- Materials Project API
+- Data Retrieval
+- Pandas DataFrame
+- Data Visualization
+
+🎯 Learning Outcome
+
+✔ Learn how to retrieve materials data from the Materials Project API and visualize it using Python.
+
+---
+
 # 🛠 Technologies Used
 
 | Technology | Purpose |
@@ -167,11 +206,14 @@
 
 # 🚀 Getting Started
 
+```bash
 git clone <repository-url>
 
 cd AI-Material-Science
 
 jupyter notebook
+```
+
 Open any notebook and execute the cells one by one.
 
 ---
@@ -207,6 +249,6 @@ Open any notebook and execute the cells one by one.
 
 ### Happy Learning 🚀
 
-Made by Atul Kumar using Python & Jupyter Notebook
+Made by Atul Singh Jupyter Notebook
 
 </div>
